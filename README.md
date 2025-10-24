@@ -24,3 +24,9 @@ Database — **PostgreSQL**, ORM — **SQLAlchemy**.
 | **PostgreSQL** | Database |
 | **Passlib + bcrypt** | Secure password hashing |
 | **python-jose** | JWT token handling |
+
+💬 Author
+
+Bohdan Melnichyn
+📍 Ukraine
+💻 FastAPI Developer / Educator / Backend Engineer
